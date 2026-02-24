@@ -25,6 +25,6 @@ Enumeración y explotación de buckets S3
 ## ⚡ Instalación
 
 ```bash
-git clone https://github.com/TU-USUARIO/CLOUD-HACKING.git
+git clone https://github.com/Falconmx1/CLOUD-HACKING.git
 cd CLOUD-HACKING
 pip install -r requirements.txt
